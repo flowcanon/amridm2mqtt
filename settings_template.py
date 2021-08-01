@@ -30,13 +30,13 @@ READINGS_PER_HOUR = 12
 # MQTT_USER needs to be a string
 # MQTT_PASSWORD needs to be a string
 # If no authentication, leave MQTT_USER and MQTT_PASSWORD empty
-MQTT_HOST = '127.0.0.1'
+MQTT_HOST = "127.0.0.1"
 MQTT_PORT = 1883
-MQTT_USER = ''
-MQTT_PASSWORD = ''
+MQTT_USER = ""
+MQTT_PASSWORD = ""
 
 # path to rtlamr
-RTLAMR = '/usr/local/bin/rtlamr'
+RTLAMR = "/usr/local/bin/rtlamr"
 
 # path to rtl_tcp
-RTL_TCP = '/usr/bin/rtl_tcp'
+RTL_TCP = "/usr/bin/rtl_tcp"
